@@ -1,6 +1,8 @@
 package com.qihao.sort;
 
 /**
+ * 直接插入排序
+ *
  * @author huangqihao
  * @version 1.0
  * @date 2020/4/7 16:47
